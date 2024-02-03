@@ -20,8 +20,8 @@ import { IProject } from "@/types/home/project";
 import { PageState } from "@/types/home/pageState";
 
 const position: LatLngExpression = {
-  lat: 41.0166, 
-  lng: 29.0122
+  lat: 44.4109, 
+  lng: 26.2507
 }
 
 const Map = ({
