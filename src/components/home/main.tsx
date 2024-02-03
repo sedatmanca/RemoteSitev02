@@ -58,8 +58,8 @@ const Main = ({
       lastUpdated: getLastUpdatedString(1, Time.Day),
       image: "/assets/project-deneme-4.png",
       coordinates: {
-        lat: 44.37937075455216, 
-        lng: 26.24436140332963
+        lat: 44,41093017955633, 
+        lng: 26,25071525573731
       }
     },    
     /*{
