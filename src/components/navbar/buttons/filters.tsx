@@ -43,7 +43,7 @@ const NavbarFilters = ({
               defaultValue={0}
               bordered={false}
               options={[
-                { value: 0, label: 'Romania Bucharest South Ring Road LOT-1' },
+                { value: 0, label: 'Romania Bucharest' },
                 /*{ value: 1, label: 'Limak' },
                 { value: 2, label: 'Deneme' },*/
               ]}
