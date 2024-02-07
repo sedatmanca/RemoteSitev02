@@ -43,9 +43,9 @@ const NavbarFilters = ({
               defaultValue={0}
               bordered={false}
               options={[
-                { value: 0, label: 'Alarko' },
-                { value: 1, label: 'Limak' },
-                { value: 2, label: 'Deneme' },
+                { value: 0, label: 'Romania Bucharest South Ring Road LOT-1' },
+                /*{ value: 1, label: 'Limak' },
+                { value: 2, label: 'Deneme' },*/
               ]}
             />
           </div>          
